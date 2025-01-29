@@ -3,7 +3,7 @@
 * Plugin Name: WPML Language Menu Switch Shortcode
 * Version: 1.0.0
 * Plugin URI: https://elsaagency.ir/langmenu
-* Description: Language switcher shortcode which will present the current page in other langauges. Please add contry flags inside a folder called asset with naming as flag-LANGUAGECODE.png such as flag-ir.png
+* Description: This is a must-use plugin and should be placed inside mu-plugins inside wp-cntent folder. Language switcher shortcode which will present the current page in other langauges. Please add contry flags inside a folder called asset with naming as flag-LANGUAGECODE.png such as flag-ir.png
 * Author URI: https://elsaagency.ir/saeedroshan
 * Author: Sir Saeed
 * Requires Plugins: sitepress-multilingual-cms/sitepress.php
